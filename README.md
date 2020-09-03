@@ -13,5 +13,5 @@ Vui lòng liên hệ chúng tôi qua:
 - Name: HebeToday
 - Address: 362 Tôn Đức Thắng, Đà Nẵng, 550000
 - Phone: 0337791337
-- Email: hebetoday.com@gmail.com
+- Email: contact@hebetoday.com
 - Website: https://hebetoday.com
